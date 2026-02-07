@@ -1,0 +1,14 @@
+
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+.streamlit/config.toml
+
+chroma_db/
+temp_*
+
+.DS_Store
+Thumbs.db
